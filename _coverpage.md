@@ -1,6 +1,6 @@
 # IMPACT<small>Docs 1.0</small>
 
-> Documenting a better future.
+> Documenting a better tomorrow.
 
 - [English](#/) | [عربي](#/ar/)
 
